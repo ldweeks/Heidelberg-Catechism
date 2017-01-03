@@ -1,14 +1,3 @@
----
-HandheldFriendly: true
-MobileOptimized: width
-abstract: 'Clearnote Songbook is an online hymnal, worship resource, music store, and blog for the purpose of reforming Protestant worship.'
-description: 'Part IndexLord''s Day Index'
-generator: 'Drupal 7 (http://drupal.org)'
-keywords: 'Christian Worship, Liturgy, Reformed, Reformation, Clearnote Fellowship, Good Shepherd Band, Copyright'
-title: 'Heidelberg Catechism (1563) | Clearnote Songbook'
-viewport: 'width=device-width'
-...
-
 [Jump to navigation](#main-menu)
 
 <div id="page">
@@ -91,33 +80,6 @@ viewport: 'width=device-width'
 </div>
 
 </div>
-
-<div class="aboveMain">
-
-<div class="breadcrumb">
-
-You are here {.element-invisible}
-------------
-
-1.  [Home](/) \\
-2.  Heidelberg Catechism (1563)
-
-</div>
-
-</div>
-
-<div id="main">
-
-<div id="content" class="column" role="main">
-
-<span id="main-content"></span>
-<span class="rdf-meta element-hidden" property="dc:title" content="Heidelberg Catechism (1563)"></span><span class="rdf-meta element-hidden" property="sioc:num_replies" content="0" datatype="xsd:integer"></span>
-<div class="field field-name-body field-type-text-with-summary field-label-hidden">
-
-<div class="field-items">
-
-<div class="field-item even" property="content:encoded">
-
 +--------------------------------------+--------------------------------------+
 | <span id="top"></span>**Part Index** | **Lord's Day Index**                 |
 +--------------------------------------+--------------------------------------+
